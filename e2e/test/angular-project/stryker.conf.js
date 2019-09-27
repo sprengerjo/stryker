@@ -17,6 +17,7 @@ module.exports = function (config) {
     },
     reporters: ['progress', 'clear-text', 'event-recorder'],
     coverageAnalysis: 'off',
+    logLevel: 'trace',
     maxConcurrentTestRunners: 1,
     timeoutMS: 60000
   });
