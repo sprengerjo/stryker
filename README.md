@@ -6,7 +6,7 @@
 
 ![Stryker](stryker-80x80.png)
 test
-testte
+testt
 # Strykertest
 *Professor X: For someone who hates mutants... you certainly keep some strange company.*  
 *William Stryker: Oh, they serve their purpose... as long as they can be controlled.*
