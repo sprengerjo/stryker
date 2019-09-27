@@ -5,7 +5,7 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/stryker-mutator/stryker)](https://bettercodehub.com/)
 
 ![Stryker](stryker-80x80.png)
-tes
+te
 # Stryker
 *Professor X: For someone who hates mutants... you certainly keep some strange company.*  
 *William Stryker: Oh, they serve their purpose... as long as they can be controlled.*
